@@ -203,7 +203,7 @@ body {
 
 /* HERO */
 .hero {
-  height: 50vh;
+  height: 70vh;
   min-height: 400px;
   display: flex;
   align-items: center;
@@ -221,7 +221,7 @@ body {
   left: 0;
   right: 0;
   bottom: 0;
-  background-image: url('https://cdnb.artstation.com/p/assets/images/images/050/358/035/large/manuel-marroquin-mecha-crp.jpg?1654664755');
+  background-image: url('https://i.postimg.cc/rc69JFbB/Mechas-Trio-bw.png');
   background-size: cover;
   background-position: center;
   background-repeat: no-repeat;
@@ -527,7 +527,7 @@ body {
   margin-bottom: 1.5rem;
   transition: all 0.4s ease;
   cursor: default;
-  text-align: center;
+  text-align: left;
 }
 
 .about-heading:hover {
